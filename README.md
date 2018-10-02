@@ -1,5 +1,5 @@
-# Ionic3-Start-Template
-This is a Ionic3-Start template with the Ionic version 3.9.2.
+# Ionic3-Cordova-Start Template
+This is a Ionic3-Cordova-Start template with the Ionic version 3.9.2.
 
 ## Required software
 Please install the following software before continue.
