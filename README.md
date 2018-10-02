@@ -119,13 +119,13 @@ If you want to deploy and run the app on a Android device.
       ```bash
       $ sdkmanager --list
       ```
-   6. Add the SDK-Platforms:
+   6. Add the SDK-Platforms (e.g. API Level 26 = Android 8.0):
       ```bash
       $ sdkmanager "platforms;android-26"
       ```
    7. Add the SDK-Build-Tools:
       ```bash
-      $ sdkmanager "build-tools;26.0.0"
+      $ sdkmanager "build-tools;26.1.1"
       ```
    b) Gradle (Version: 4.10.2) 
    1. Please download the software from the following website: [https://gradle.org/releases/](https://gradle.org/releases/) (binary-only)
